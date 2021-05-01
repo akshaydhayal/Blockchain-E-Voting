@@ -128,7 +128,7 @@ STATICFILES_DIRS = [
 
 # FOR DEMO PURPOSE
 # IMPORTANT: Re-run the simulation after modifying these values.
-# Public key
+# Asymmetric Public key
 PUBLIC_KEY = """-----BEGIN PUBLIC KEY-----
 MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJ5r+Cab+pDjJm1INuWDJFfTPcvqJ
 lIEPNL/gFRyz9sl55N8jENmCslOSpNCkJUEb879x+0Jx0pg9POeOAT7Xrw==
