@@ -7,6 +7,7 @@ def get_vote():
 def get_timestamp():
     return datetime.datetime.now().timestamp()
 
+"""Class Vote"""
 class Vote(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4)
     vote = models.IntegerField(default=get_vote)
